@@ -1,0 +1,10 @@
+Source,Target,Type,weight
+Blue,Red,Undirected,5
+Red,Yellow,Undirected,5
+Blue,Yellow,Undirected,5
+Yellow,Orange,Undirected,3
+Red,Orange,Undirected,3
+Blue,Purple,Undirected,3
+Red,Purple,Undirected,3
+Blue,Green,Undirected,3
+Yellow,Green,Undirected,3

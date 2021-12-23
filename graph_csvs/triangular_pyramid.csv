@@ -1,0 +1,7 @@
+Source,Target,Type,weight
+Vertex 1,Vertex 2,Undirected,1
+Vertex 1,Vertex 3,Undirected,1
+Vertex 2,Vertex 3,Undirected,1
+Vertex 1,Vertex 4,Undirected,1
+Vertex 2,Vertex 4,Undirected,1
+Vertex 3,Vertex 4,Undirected,1
